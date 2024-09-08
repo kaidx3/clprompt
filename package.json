@@ -1,6 +1,7 @@
 {
   "name": "clprompt",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "1.0.1",
   "description": "A simple module that uses node readline to prompt the user for input.",
   "main": "clprompt.js",
   "scripts": {
