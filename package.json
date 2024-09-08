@@ -1,0 +1,28 @@
+{
+  "name": "clprompt",
+  "version": "1.0.0",
+  "description": "A simple module that uses node readline to prompt the user for input.",
+  "main": "clprompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaidx3/clprompt.git"
+  },
+  "keywords": [
+    "ReadLine",
+    "Prompt",
+    "User",
+    "Input",
+    "CLI",
+    "Command",
+    "Line"
+  ],
+  "author": "Kaiden Flaig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaidx3/clprompt/issues"
+  },
+  "homepage": "https://github.com/kaidx3/clprompt#readme"
+}
