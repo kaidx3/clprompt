@@ -14,7 +14,7 @@ npm i clprompt
 Import the promptUser function from clprompt
 
 ```js
-import {promptUser} from "clprompt"
+import { promptUser } from "clprompt"
 
 const name = await promptUser("What is your name?");
 ```
